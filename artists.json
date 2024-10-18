@@ -1,0 +1,353 @@
+[
+    {
+      "name": "Frida Kahlo",
+      "nationality": "Mexican",
+      "birthday": "1907-07-06",
+      "deathday": "1954-07-13",
+      "gender": "Female",
+      "style": "Surrealism, Magic Realism",
+      "works_of_art": [
+        {
+          "name": "The Two Fridas",
+          "date": "1939",
+          "style": "Surrealism"
+        },
+        {
+          "name": "Self-Portrait with Thorn Necklace and Hummingbird",
+          "date": "1940",
+          "style": "Magic Realism"
+        },
+        {
+          "name": "The Broken Column",
+          "date": "1944",
+          "style": "Surrealism"
+        },
+        {
+          "name": "The Wounded Deer",
+          "date": "1946",
+          "style": "Surrealism"
+        },
+        {
+          "name": "Self-Portrait with Cropped Hair",
+          "date": "1940",
+          "style": "Magic Realism"
+        }
+      ]
+    },
+    {
+      "name": "Diego Rivera",
+      "nationality": "Mexican",
+      "birthday": "1886-12-08",
+      "deathday": "1957-11-24",
+      "gender": "Male",
+      "style": "Muralism",
+      "works_of_art": [
+        {
+          "name": "Man at the Crossroads",
+          "date": "1934",
+          "style": "Muralism"
+        },
+        {
+          "name": "The Flower Carrier",
+          "date": "1935",
+          "style": "Muralism"
+        },
+        {
+          "name": "Detroit Industry Murals",
+          "date": "1933",
+          "style": "Muralism"
+        },
+        {
+          "name": "The History of Mexico",
+          "date": "1929-1935",
+          "style": "Muralism"
+        },
+        {
+          "name": "The Allegory of California",
+          "date": "1931",
+          "style": "Muralism"
+        }
+      ]
+    },
+    {
+      "name": "Tarsila do Amaral",
+      "nationality": "Brazilian",
+      "birthday": "1886-09-01",
+      "deathday": "1973-01-17",
+      "gender": "Female",
+      "style": "Modernism",
+      "works_of_art": [
+        {
+          "name": "Abaporu",
+          "date": "1928",
+          "style": "Modernism"
+        },
+        {
+          "name": "Anthropophagy",
+          "date": "1929",
+          "style": "Modernism"
+        },
+        {
+          "name": "The Black Woman",
+          "date": "1923",
+          "style": "Modernism"
+        },
+        {
+          "name": "The Lake",
+          "date": "1928",
+          "style": "Modernism"
+        },
+        {
+          "name": "E.F.C.B",
+          "date": "1924",
+          "style": "Modernism"
+        }
+      ]
+    },
+    {
+      "name": "Fernando Botero",
+      "nationality": "Colombian",
+      "birthday": "1932-04-19",
+      "deathday": "2023-09-15",
+      "gender": "Male",
+      "style": "Boterism",
+      "works_of_art": [
+        {
+          "name": "Mona Lisa, Age Twelve",
+          "date": "1959",
+          "style": "Boterism"
+        },
+        {
+          "name": "The Death of Pablo Escobar",
+          "date": "1999",
+          "style": "Boterism"
+        },
+        {
+          "name": "Dancers",
+          "date": "2004",
+          "style": "Boterism"
+        },
+        {
+          "name": "The Bullfighter",
+          "date": "1987",
+          "style": "Boterism"
+        },
+        {
+          "name": "The Presidential Family",
+          "date": "1967",
+          "style": "Boterism"
+        }
+      ]
+    },
+    {
+      "name": "Leonora Carrington",
+      "nationality": "Mexican",
+      "birthday": "1917-04-06",
+      "deathday": "2011-05-25",
+      "gender": "Female",
+      "style": "Surrealism",
+      "works_of_art": [
+        {
+          "name": "The Lovers",
+          "date": "1946",
+          "style": "Surrealism"
+        },
+        {
+          "name": "The Pomps of the Subsoil",
+          "date": "1947",
+          "style": "Surrealism"
+        },
+        {
+          "name": "The Giantess",
+          "date": "1947",
+          "style": "Surrealism"
+        },
+        {
+          "name": "The House Opposite",
+          "date": "1945",
+          "style": "Surrealism"
+        },
+        {
+          "name": "The Temptation of St. Anthony",
+          "date": "1946",
+          "style": "Surrealism"
+        }
+      ]
+    },
+    {
+      "name": "José Clemente Orozco",
+      "nationality": "Mexican",
+      "birthday": "1883-11-23",
+      "deathday": "1949-09-07",
+      "gender": "Male",
+      "style": "Muralism",
+      "works_of_art": [
+        {
+          "name": "Prometheus",
+          "date": "1930",
+          "style": "Muralism"
+        },
+        {
+          "name": "The Epic of American Civilization",
+          "date": "1932-1934",
+          "style": "Muralism"
+        },
+        {
+          "name": "Man of Fire",
+          "date": "1939",
+          "style": "Muralism"
+        },
+        {
+          "name": "The Trench",
+          "date": "1926",
+          "style": "Muralism"
+        },
+        {
+          "name": "Cortez and Malinche",
+          "date": "1926",
+          "style": "Muralism"
+        }
+      ]
+    },
+    {
+      "name": "Remedios Varo",
+      "nationality": "Spanish-Mexican",
+      "birthday": "1908-12-16",
+      "deathday": "1963-10-08",
+      "gender": "Female",
+      "style": "Surrealism",
+      "works_of_art": [
+        {
+          "name": "Creation of the Birds",
+          "date": "1957",
+          "style": "Surrealism"
+        },
+        {
+          "name": "The Lovers",
+          "date": "1963",
+          "style": "Surrealism"
+        },
+        {
+          "name": "Harmony",
+          "date": "1956",
+          "style": "Surrealism"
+        },
+        {
+          "name": "Useless Science or the Alchemist",
+          "date": "1955",
+          "style": "Surrealism"
+        },
+        {
+          "name": "Woman Leaving the Psychoanalyst",
+          "date": "1960",
+          "style": "Surrealism"
+        }
+      ]
+    },
+    {
+      "name": "David Alfaro Siqueiros",
+      "nationality": "Mexican",
+      "birthday": "1896-12-29",
+      "deathday": "1974-01-06",
+      "gender": "Male",
+      "style": "Muralism",
+      "works_of_art": [
+        {
+          "name": "Echo of a Scream",
+          "date": "1937",
+          "style": "Muralism"
+        },
+        {
+          "name": "Death to the Invader",
+          "date": "1941-1942",
+          "style": "Muralism"
+        },
+        {
+          "name": "Portrait of the Bourgeoisie",
+          "date": "1939-1940",
+          "style": "Muralism"
+        },
+        {
+          "name": "New Democracy",
+          "date": "1944",
+          "style": "Muralism"
+        },
+        {
+          "name": "Cuauhtémoc Reborn",
+          "date": "1951",
+          "style": "Muralism"
+        }
+      ]
+    },
+    {
+      "name": "Lygia Clark",
+      "nationality": "Brazilian",
+      "birthday": "1920-10-23",
+      "deathday": "1988-04-25",
+      "gender": "Female",
+      "style": "Neo-Concretism",
+      "works_of_art": [
+        {
+          "name": "Bicho",
+          "date": "1960",
+          "style": "Neo-Concretism"
+        },
+        {
+          "name": "The I and the You",
+          "date": "1967",
+          "style": "Conceptual Art"
+        },
+        {
+          "name": "Dialogue of Hands",
+          "date": "1966",
+          "style": "Neo-Concretism"
+        },
+        {
+          "name": "Sensory Masks",
+          "date": "1967",
+          "style": "Conceptual Art"
+        },
+        {
+          "name": "Structuring of the Self",
+          "date": "1976",
+          "style": "Conceptual Art"
+        }
+      ]
+    },
+    {
+      "name": "Carlos Cruz-Diez",
+      "nationality": "Venezuelan",
+      "birthday": "1923-08-17",
+      "deathday": "2019-07-27",
+      "gender": "Male",
+      "style": "Kinetic Art, Op Art",
+      "works_of_art": [
+        {
+          "name": "Chromosaturation",
+          "date": "1965",
+          "style": "Kinetic Art"
+        },
+        {
+          "name": "Physichromie",
+          "date": "1959",
+          "style": "Kinetic Art"
+        },
+        {
+          "name": "Induction Chromatique",
+          "date": "1963",
+          "style": "Kinetic Art"
+        },
+        {
+          "name": "Transchromie",
+          "date": "1965",
+          "style": "Kinetic Art"
+        },
+        {
+          "name": "Additive Color",
+          "date": "1970",
+          "style": "Kinetic Art"
+        }
+      ]
+    }
+  ]
+  
